@@ -1,6 +1,6 @@
-🔒 Privacy Policy
-Bot Name: Awakened
-Date: 24/6/2025
+🔒 Privacy Policy\n
+Bot Name: Awakened\n
+Date: 24/6/2025\n
 Contact: mchyp6@gmail.com
 
 1. Information We Collect
