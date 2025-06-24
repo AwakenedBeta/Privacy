@@ -1,7 +1,6 @@
 🔒 Privacy Policy:- 
 Bot Name: Awakened,
-Date: 24/6/2025,
-Contact: mchyp6@gmail.com.
+Date: 24/6/2025.
 
 1. Information We Collect
 Our bot may collect the following data:
@@ -57,3 +56,4 @@ We may update this privacy policy at any time. Changes will be posted on our sup
 7. Contact
 If you have questions about this policy, contact us at:
 [Support Server Link](https://discord.gg/JjjNjAZutF)
+Contact: mchyp6@gmail.com.
