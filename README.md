@@ -1,6 +1,7 @@
 🔒 Privacy Policy
 Bot Name: Awakened
-Contact: [Support Server](https://discord.gg/JjjNjAZutF)
+Date: 24/6/2025
+Contact: mchyp6@gmail.com
 
 1. Information We Collect
 Our bot may collect the following data:
